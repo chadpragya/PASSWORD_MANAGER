@@ -1,6 +1,4 @@
-Flask
-flask-jwt-extended
-cryptography
-python-dotenv
-werkzeug
-gunicorn
+Flask==2.3.3
+flask-jwt-extended==4.6.0
+cryptography==42.0.5
+Werkzeug==2.3.8
