@@ -1,0 +1,6 @@
+Flask
+flask-jwt-extended
+cryptography
+python-dotenv
+werkzeug
+gunicorn
