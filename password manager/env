@@ -1,2 +1,0 @@
-JWT_SECRET_KEY=my_very_secret_key
-PORT=5000
